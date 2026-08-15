@@ -1,1 +1,22 @@
-/* Add CSS Styling */
+.gopher,
+.rodent,
+.squirrel {
+    color: black;
+    background-color: #DB6C79;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#nmbr2 {
+    color: rgb(0, 0, 255);
+    font-size: 32px;
+}
+
+.rodent {
+    font-size: 24 px;
+}
+
+#nmbr4 {
+    background-color: rgb(31, 120, 50);
+    font-size: 24px;
+    font-weight: 700;
+}
